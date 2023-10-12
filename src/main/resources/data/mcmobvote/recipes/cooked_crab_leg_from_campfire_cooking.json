@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "mcmobvote:raw_crab_leg"
+  },
+  "result": "mcmobvote:cooked_crab_leg",
+  "experience": 0.35,
+  "cookingtime": 600
+}
